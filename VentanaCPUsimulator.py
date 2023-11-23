@@ -14,7 +14,7 @@ ventanaCPUsimulator.resizable(False, False)
 anchoPantalla=ventanaCPUsimulator.winfo_screenwidth()
 altoPantalla=ventanaCPUsimulator.winfo_screenheight()
 
-# Calcula las coordenadas para centrar la ventana
+# Calcula las coordenadas para centrar la ventana #
 x=(anchoPantalla-1100)//2
 y=(altoPantalla-678)//2
 
